@@ -111,3 +111,4 @@ public class ReceiptUseCase {
         receiptData.storeReceiptInformation(receiptAmount, customerEmail);
     }
 }
+//end use case
